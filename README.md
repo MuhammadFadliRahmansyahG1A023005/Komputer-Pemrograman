@@ -410,27 +410,27 @@ Kesimpulan dari program ini adalah sebagai berikut:
 # DAFTAR PUSTAKA
 Java Official Documentation (Dokumentasi Resmi Java):
 
-Dokumentasi resmi Java dari Oracle menyediakan informasi mendalam tentang berbagai konsep dan komponen bahasa Java, termasuk array, boolean, dan perulangan.
+[1] Dokumentasi resmi Java dari Oracle menyediakan informasi mendalam tentang berbagai konsep dan komponen bahasa Java, termasuk array, boolean, dan perulangan.
 Situs web: Oracle Java Documentation
 "Java: The Complete Reference" oleh Herbert Schildt:
 
-Buku ini adalah referensi komprehensif tentang bahasa pemrograman Java dan mencakup berbagai topik, termasuk array, boolean, dan perulangan.
+[2] Buku ini adalah referensi komprehensif tentang bahasa pemrograman Java dan mencakup berbagai topik, termasuk array, boolean, dan perulangan.
 Link ke Buku
 "Head First Java" oleh Kathy Sierra dan Bert Bates:
 
-Buku ini dirancang untuk pemula dan menggunakan pendekatan yang ramah dan mudah dipahami untuk mengajarkan konsep Java, termasuk array dan perulangan.
+[3] Buku ini dirancang untuk pemula dan menggunakan pendekatan yang ramah dan mudah dipahami untuk mengajarkan konsep Java, termasuk array dan perulangan.
 Link ke Buku
 Tutorialspoint Java Tutorial:
 
-Tutorialspoint adalah sumber pembelajaran online yang menyediakan tutorial Java lengkap dengan penjelasan tentang array, boolean, dan perulangan.
+[4] Tutorialspoint adalah sumber pembelajaran online yang menyediakan tutorial Java lengkap dengan penjelasan tentang array, boolean, dan perulangan.
 Link ke Tutorialspoint Java Tutorial
 Stack Overflow:
 
-Stack Overflow adalah forum pemrograman yang dapat membantu Anda mendapatkan jawaban dan pemahaman lebih mendalam tentang istilah-istilah seperti array, boolean, dan perulangan melalui pertanyaan yang diajukan oleh pengguna lain.
+[5] Stack Overflow adalah forum pemrograman yang dapat membantu Anda mendapatkan jawaban dan pemahaman lebih mendalam tentang istilah-istilah seperti array, boolean, dan perulangan melalui pertanyaan yang diajukan oleh pengguna lain.
 Stack Overflow Java Section
 Coursera, edX, dan Udacity:
 
-Platform pembelajaran daring ini menawarkan kursus pemrograman Java yang mencakup topik-topik seperti array, boolean, dan perulangan.
+[6] Platform pembelajaran daring ini menawarkan kursus pemrograman Java yang mencakup topik-topik seperti array, boolean, dan perulangan.
 Coursera Java Courses
 edX Java Courses
 Udacity Java Courses
